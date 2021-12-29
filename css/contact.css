@@ -1,0 +1,53 @@
+body {
+    background-color: #C6D5FF;
+}
+nav {
+    margin: 30px;
+    box-shadow: 4px 4px rgb(165, 155, 155);
+    transition: transform .5s ease;
+}
+nav:hover {
+    transform: scale(1.01);
+    box-shadow: 5px 5px rgb(117, 117, 117);
+}
+.navUl {
+    display: inline-block;
+    vertical-align: bottom;
+    float: right;
+    margin: 20px;
+    background-color: #EBEBEB;
+    border-radius: 4px;
+}
+.navli {
+    display: inline-block;
+    padding: 20px;
+    font-size: 20px;
+    color: #000000;
+}
+.active {
+    color: #A00000;
+}
+.logo {
+    width: 64px;
+    height: 90px;
+}
+.teleContainer {
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    background-color: #EBEBEB;
+    padding-top: 30px;
+}
+.Info {
+    display: inline-block;
+    vertical-align: top;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+footer {
+    background-color: gray;
+    width: 100%;
+    
+}
+footer a {
+    padding: 20px;
+}
