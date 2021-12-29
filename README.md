@@ -1,0 +1,2 @@
+# Shualeduri
+pirveli shemajamebeli
